@@ -1,0 +1,23 @@
+.page{
+  margin: 3rem ;
+  padding: 3rem ;
+  border: 1px solid;
+  color: #fff;
+}
+
+.nav{
+  background-color: blue;
+}
+.dashboard{
+  background-color: red;
+}
+.landing{
+  background-color: green;
+}
+
+button{
+  padding: 0.5rem 1rem;
+  border: none;
+  background-color: aqua;
+  color: #fff;
+}
